@@ -8,4 +8,6 @@ Launch the steamvr overlay and enjoy your newly found friend *The Nose*.
 
 Have fun out there!
 
-[](https://arc-anglerfish-eu-central-1-prod-leparisien.s3.amazonaws.com/public/I6CLFEZ3WV5CDM7B5C42OUB4E4.jpg)
+<p align="center">
+  <img src="https://arc-anglerfish-eu-central-1-prod-leparisien.s3.amazonaws.com/public/I6CLFEZ3WV5CDM7B5C42OUB4E4.jpg" alt="Overview of the tools"/>
+</p>
